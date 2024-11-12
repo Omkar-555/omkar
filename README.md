@@ -1,4 +1,4 @@
 # omkar
 This is my first Git Repository.
 <br>
-Author - Omkar Shinde
+Author - Omkar (omii Shinde)
